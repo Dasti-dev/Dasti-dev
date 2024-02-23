@@ -1,5 +1,5 @@
 <img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg">
-Web Developer
+## Web Developer
 -------------
 
 Hey I am Astitwa , a self taught MERN stack developer. 
