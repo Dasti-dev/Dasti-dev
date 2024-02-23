@@ -7,11 +7,12 @@ Web Developer
 Hey I am Asitiwa , a self taught developer , 
 
 *   🌍  I'm based in Lucknow,India
-*   🖥️  See my portfolio at [My portfolio](http://porfolio-red.vercel.app/)
+*   🖥️  See my portfolio at [My portfolio](https://porfolio-red.vercel.app/)
 *   ✉️  You can contact me at [20cs3015@rgipt.ac.in](mailto:20cs3015@rgipt.ac.in)
 *   🧠  I'm learning about Ethereum 
 *   🤝  I'm open to collaborating on interseting projects
-*   ⚡  Billuverse<a href="https://www.github.com/Dasti-dev" target="_blank" rel="noreferrer"><img
+*   ⚡  Billuverse
+*   <a href="https://www.github.com/Dasti-dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Dasti-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   ### Skills 
 <p align="left">
