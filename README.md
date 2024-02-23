@@ -12,7 +12,8 @@ Hey I am Asitiwa , a self taught developer ,
 *   🧠  I'm learning about Ethereum 
 *   🤝  I'm open to collaborating on interseting projects
 *   ⚡  Billuverse
-*   <a href="https://www.github.com/Dasti-dev" target="_blank" rel="noreferrer"><img
+  
+  <a href="https://www.github.com/Dasti-dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Dasti-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   ### Skills 
 <p align="left">
