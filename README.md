@@ -1,5 +1,6 @@
-<img alt="geass" src="[https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg]">
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Astitwa Dwivedi
+<img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg">
+Hi !My name is Astitwa Dwivedi
+<!-- [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 =======================================================================================================================================
 
 Web Developer
