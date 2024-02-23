@@ -1,4 +1,4 @@
-<img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg">
+<img alt="Welcome" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg">
  
 Hey I am Astitwa , a self taught MERN stack developer. 
 
@@ -38,4 +38,6 @@ class Developer {
 }
 
 const Billu = new Developer("Billu");
- 
+
+```
+<img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
