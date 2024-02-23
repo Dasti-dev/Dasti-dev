@@ -3,7 +3,7 @@
 Hey I am Astitwa , a self taught MERN stack developer. 
 
 *   🌍  I'm based in Lucknow,India
-*   🖥️  See my portfolio at [My portfolio](https://porfolio-red.vercel.app/)
+*   🖥️  See my portfolio at [My portfolio Website](https://porfolio-red.vercel.app/)
 *   ✉️  You can contact me at [20cs3015@rgipt.ac.in](mailto:20cs3015@rgipt.ac.in)
 *   🧠  I'm learning about Ethereum 
 *   🤝  I'm open to collaborating on interseting projects
@@ -40,4 +40,11 @@ class Developer {
 const Billu = new Developer("Billu");
 
 ```
-<img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
+Projects:
+
+* [Qmail][]
+* [NFT-Plateau][]
+* [CodePulse][]
+* [Visionplay][]
+
+<img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
