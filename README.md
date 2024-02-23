@@ -1,7 +1,5 @@
 <img alt="geass" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Bottom_up.svg">
-## Web Developer
--------------
-
+ 
 Hey I am Astitwa , a self taught MERN stack developer. 
 
 *   🌍  I'm based in Lucknow,India
