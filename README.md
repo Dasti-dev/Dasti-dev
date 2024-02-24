@@ -42,9 +42,11 @@ const Billu = new Developer("Billu");
 ```
 Projects:
 
-* [Qmail][]
-* [NFT-Plateau][]
-* [CodePulse][]
-* [Visionplay][]
+* Qumail
+* NFT-Plateau
+* CodePulse
+* VisionPlay
+* SIH 22 - Copyroight Infringement Detector
+* SocialMediaFrontend
 
 <img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
