@@ -46,7 +46,7 @@ Projects:
 * NFT-Plateau
 * CodePulse
 * VisionPlay
-* SIH 22 - Copyroight Infringement Detector
+* SIH 22 - Copyright Infringement Detector
 * SocialMediaFrontend
 
 <img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
