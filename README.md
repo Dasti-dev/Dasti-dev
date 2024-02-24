@@ -5,7 +5,7 @@ Hey I am Astitwa , a self taught MERN stack developer.
 *   🌍  I'm based in Lucknow,India
 *   🖥️  See my portfolio at [My portfolio Website](https://porfolio-red.vercel.app/)
 *   ✉️  You can contact me at [20cs3015@rgipt.ac.in](mailto:20cs3015@rgipt.ac.in)
-*   🧠  I'm learning about Ethereum 
+*   🧠  I'm learning about Ethereum , [My devfolio Profile](https://devfolio.co/@Astitwa_Dwivedi)
 *   🤝  I'm open to collaborating on interseting projects
 *   ⚡  Billuverse
   
