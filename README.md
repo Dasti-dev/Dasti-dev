@@ -48,5 +48,6 @@ Projects:
 * VisionPlay
 * SIH 22 - Copyright Infringement Detector
 * SocialMediaFrontend
+* Serverless Blogging site - CloudWorkers
 
 <img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
