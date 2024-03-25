@@ -50,4 +50,11 @@ Projects:
 * SocialMediaFrontend
 * Serverless Blogging site - CloudWorkers
 
+Frontend:
+
+* NFT-Plateau 
+* VisionPlay
+* SocialMediaFrontend
+* Netflix clone
+
 <img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg">
