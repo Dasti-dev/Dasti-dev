@@ -57,4 +57,4 @@ Frontend:
 * SocialMediaFrontend
 * Netflix clone
 
-<img alt="Lucknow" src="[https://github.com/Dasti-dev/Dasti-dev/blob/main/lucknow.jpg](https://github.com/Dasti-dev/Dasti-dev/assets/117101772/3a0d7598-ed6e-4460-9c94-aca7271b2eb7)">
+<img alt="Lucknow" src="https://github.com/Dasti-dev/Dasti-dev/blob/main/Lucknow.jpg">
